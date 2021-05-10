@@ -5,6 +5,7 @@ Table of Contents
 
 - [Functions](#Functions) 
 - [Classes](#Classes) 
+- []()
 
 
 ## Functions
@@ -16,3 +17,5 @@ Table of Contents
 - polymorphism ( inhertince (overite, overload)) 
 - Interface
 - Differnces
+
+## access level hirachy
