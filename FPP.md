@@ -12,16 +12,18 @@ Table of Contents
 ## Operators
 ## Control Flow
 ## Strings
+## Input & Output
 ## Data strcture 
 ## Build in functions
 
 ## Functions
-- static
-- abstract
-- public, private, protected
+- Functions type (Static, Instance, Accessor, Mutator)
+- access modiifer (public, private, protected)
 
 ## Classes
-- polymorphism ( inhertince (overite, overload)) 
+- Class type
+- Class access level
+- polymorphism (overite, overload))
 - Interface
 - Differnces
 
