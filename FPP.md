@@ -8,6 +8,13 @@ Table of Contents
 - []()
 
 
+## Data type
+## Operators
+## Control Flow
+## Strings
+## Data strcture 
+## Build in functions
+
 ## Functions
 - static
 - abstract
@@ -18,4 +25,4 @@ Table of Contents
 - Interface
 - Differnces
 
-## access level hirachy
+## Access level hierarchy
