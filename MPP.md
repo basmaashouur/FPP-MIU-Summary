@@ -14,6 +14,9 @@
    class Student {…}
    class Undergraduate extends Student {…}
    class Graduate extends Student {…}
+   
+   Student st1,st2, st3;
+   Graduate st4;
 
    st1 = new Student();         // okay
    st2 = new Undergraduate();   // okay
