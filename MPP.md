@@ -11,7 +11,7 @@
 - **Static Binding:** When type of object is detrmined at compile time, The binding which can be resolved at compile time by compiler is known as static or early binding. Binding of all the static, private and final methods is done at compile-time.
 - **Dynamic Binding:** When type of object is detrmined at run time, In Dynamic binding compiler doesn’t decide the method to be called. Overriding is a perfect example of dynamic binding.
 
-## UML
+## [UML](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 ![alt text](https://github.com/basmaashouur/MIU-Courses-Summary/blob/main/UML-Diagram-types.png)
 
 ## Polymorphism
