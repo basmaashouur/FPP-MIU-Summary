@@ -1,5 +1,11 @@
 # Contents
-
+- [Java OOP Consepts](#Java-OOP-Consepts) 
+- [UML](#UML) 
+- [Polymorphism](#Polymorphism)
+   * [Inheritance](#Inheritance)
+- []()
+- []()
+- []()
 
 ## Java OOP Consepts
 - **Static Binding:** When type of object is detrmined at compile time, The binding which can be resolved at compile time by compiler is known as static or early binding. Binding of all the static, private and final methods is done at compile-time.
@@ -8,7 +14,8 @@
 ## UML
 ![alt text](https://github.com/basmaashouur/MIU-Courses-Summary/blob/main/UML-Diagram-types.png)
 
-## Inheritance
+## Polymorphism
+### Inheritance
 - The idea of inheritance you want to create a new class and there is already a class that includes some of the code that you want, you can derive your new class from the existing class. In doing this, you can reuse the fields and methods of the existing class without having to write (and debug!) them yourself.
 
 
