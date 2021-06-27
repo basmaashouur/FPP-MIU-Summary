@@ -1,6 +1,7 @@
 # Contents
 - [Java OOP Consepts](#Java-OOP-Consepts) 
 - [UML](#UML) 
+  * [Class Diagram][#Class-Digram]
 - [Polymorphism](#Polymorphism)
    * [Inheritance](#Inheritance)
 - []()
@@ -13,6 +14,15 @@
 
 ## [UML](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 ![alt text](https://github.com/basmaashouur/MIU-Courses-Summary/blob/main/UML-Diagram-types.png)
+
+### [Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
+#### Class
+#### Class Attributes
+#### Class Operations
+#### Class Relations
+ - 
+#### Multiplicity & Cardinality
+### [Sequence Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/)
 
 ## Polymorphism
 ### Inheritance
