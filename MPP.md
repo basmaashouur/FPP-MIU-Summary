@@ -1,6 +1,6 @@
 # Contents
 - [Java Basics](#Java_Basics)
-  * [Iterator](Iterator)
+  * [Iterator](#Iterator)
 - [Java OOP Consepts](#Java-OOP-Consepts) 
 - [UML](#UML) 
   * [Class Diagram](#Class-Digram)
