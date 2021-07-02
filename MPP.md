@@ -37,13 +37,13 @@
  - Simple Association
  - Reflexive Association
  - Aggregation
-   - 
+   - enum
  - Composition
-   - 
+   - if removed the class cant exist
  - Inheritance (Generalization)
    - 
- - Realization [Interface]
-   - 
+ - Realization 
+   - Interface
  - Dependency
    - 
   
