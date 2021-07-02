@@ -13,7 +13,7 @@
 - []()
 
 
-# Java OOP Consepts
+# Java Basics
 ## Loops & Iterator
 ### Itrate over objects list
 # Java OOP Consepts
@@ -22,14 +22,31 @@
 
 # [UML](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
 ![alt text](https://github.com/basmaashouur/MIU-Courses-Summary/blob/main/UML-Diagram-types.png)
-
+## Techniques
+- Propagation and Delegation
 ## [Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/)
 ### Class
 ### Class Attributes
 ### Class Operations
 ### Class Relations
- - 
-### Multiplicity & Cardinality
+![alt text](https://github.com/basmaashouur/MIU-Courses-Summary/blob/main/class_diagram_relations.png)
+ - Association
+   - 
+   -  Multiplicity (Cardinality) ![alt text](https://github.com/basmaashouur/MIU-Courses-Summary/blob/main/multiplicity.png)
+      -   is an indication of how many objects may participate in the given relationship or the allowable number of instances of the element.
+ - Simple Association
+ - Reflexive Association
+ - Aggregation
+   - 
+ - Composition
+   - 
+ - Inheritance (Generalization)
+   - 
+ - Realization
+   - 
+ - Dependency
+   - 
+  
 ## [Sequence Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-sequence-diagram/)
 
 # Polymorphism
