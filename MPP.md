@@ -42,7 +42,7 @@
    - 
  - Inheritance (Generalization)
    - 
- - Realization
+ - Realization [Interface]
    - 
  - Dependency
    - 
