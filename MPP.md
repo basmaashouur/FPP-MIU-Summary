@@ -4,6 +4,8 @@
 - [Java OOP Consepts](#Java-OOP-Consepts) 
 - [UML](#UML) 
   * [Class Diagram](#Class-Digram)
+  * [Object Diagram](#Object_Diagram)
+  * [Sequence Diagram](#Sequence_Diagram)
 - [Polymorphism](#Polymorphism)
    * [Inheritance](#Inheritance)
 - []()
