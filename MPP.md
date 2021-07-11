@@ -8,7 +8,7 @@
   * [Sequence Diagram](#Sequence_Diagram)
 - [Polymorphism](#Polymorphism)
    * [Inheritance](#Inheritance)
-- []()
+- [Functional Programming](#Functional_Programming)
 - []()
 - []()
 
@@ -69,3 +69,4 @@
    st4 = new Student();         // compilation error
 
 ````
+# Functional Programming
