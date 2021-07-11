@@ -8,7 +8,7 @@
   * [Sequence Diagram](#Sequence_Diagram)
 - [Polymorphism](#Polymorphism)
    * [Inheritance](#Inheritance)
-- [Functional Programming](#Functional_Programming)
+- [Functional Programming](#Functional-Programming)
 - []()
 - []()
 
