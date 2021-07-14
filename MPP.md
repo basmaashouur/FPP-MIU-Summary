@@ -100,9 +100,26 @@
    // used to eliminate elements based on a criteria, params : a non-interfering, stateless predicate
    strings.stream().filter(string -> string.isEmpty())
    
+   // filter with if condition to print diffent value in case of each case
+   .filter(c -> {
+     if(!c.getFirstName().startsWith("D")) {
+     System.out.println(c);
+     return false;
+     }
+     else return true; 
+     })
+			
+	
+   
    // map, return Stream<obj[]>
    //  used to map each element to its corresponding result
    numbers.stream().map( i -> i*i)
+   
+   // map with if 
+     .map(c-> { if(c.getCompanyCity().startsWith("mo")) 
+          c = new Company(c.getCompanyName(), c.getCompanyCity().toUpperCase());
+        return c;
+        })
    
    // mapToInt, return Stream<Int>
    mapToInt(e -> (int)e.getSalary())
@@ -170,6 +187,8 @@
 ### Stream return
 ```java
    // print
+   .forEach(value -> System.out.printf("%d ", value));
+
    // collect in a list
    // primitive value 
 ```
