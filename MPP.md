@@ -69,8 +69,10 @@
    st4 = new Student();         // compilation error
 
 ````
-# Functional Programming
+# [Functional Programming](https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html)
 ## [Streams & Lambda](https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/)
+
+### Stream Source
 ```java
    // read from list, stream() is inside collection class 
    Stream<T> stream = list.stream();
@@ -79,14 +81,95 @@
    Stream<T> streamOfArray = Arrays.stream(arr);
    
    // read from a bunch of object references
-   Stream.of("A", "good", "day", "to", "write", "some", "Java")
+   Stream.of("A", "good", "day", "to", "write", "some", "Java");
    
+   // from range
+   IntStream.range(1, 4);
    
+   // infinite stream
+   Stream<Integer> infiniteStream = Stream.iterate(0, i -> i + 2);
+   infiniteStream.limit(20)
+
 
 ```
-### Stream Source
 ### Stream Operations
 #### Intermediate operations
+```java
+
+   // filter, return Stream<obj[]>
+   // used to eliminate elements based on a criteria, params : a non-interfering, stateless predicate
+   strings.stream().filter(string -> string.isEmpty())
+   
+   // map, return Stream<obj[]>
+   //  used to map each element to its corresponding result
+   numbers.stream().map( i -> i*i)
+   
+   // mapToInt, return Stream<Int>
+   mapToInt(e -> (int)e.getSalary())
+     
+   // mapToLong, return Stream<Long>
+   mapToLong(e -> (long)e.getSalary())
+    
+   // mapToDouble, return Stream<Double>
+   mapToDouble(e -> (Double)e.getSalary())
+   
+   // flatMap
+   // flatMapToLong
+   // flatMapToInt
+   // flatMapToDouble
+   
+   // distinct, return Stream<obj[]>
+   // Returns a stream consisting of the distinct elements
+   distinct()
+   
+   //sorted, return Stream<obj[]>
+   // used to sort the stream
+   sorted();
+   sorted(Comparator.comparing(e -> e.getSalary()))
+   
+   // limit, return Stream<obj[]>
+   // used to reduce the size of the stream
+   limit(10);
+   
+   // skip, , return Stream<obj[]>
+   skip(n);
+   
+  // concat, 
+  Stream<String> stream1 = list1.stream();
+		Stream<String> stream2= list2.stream();
+		
+		rStream.concat(stream1, stream2) 
+				.filter()
+
+```
 #### Terminal Operations
-#### 
+```java
+  // forEach,
+  // used to iterate each element of the stream
+  .forEach(System.out::println);
+  .forEach(e -> {
+	      if (e.getLastName().startsWith("B")) {
+	          e.setLastName(e.getLastName().toUpperCase());
+	          } 
+       System.out.println(e);
+	      });
+       
+       // max, min, count, average 
+       // we have to convert the stream first to mapToInt or mapToDouble to be able to use them
+       
+       // peek
+       
+       // reduece
+       // combines all elements of the stream into a single resul
+       reduce(0, (subtotal, element) -> subtotal + element);
+       
+       // collect
+       .collect(Collectors.toList());
+       .collect(toSet());
+```
 ### Stream return
+```java
+   // print
+   // collect in a list
+   // primitive value 
+```
