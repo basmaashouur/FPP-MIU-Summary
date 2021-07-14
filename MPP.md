@@ -70,3 +70,23 @@
 
 ````
 # Functional Programming
+## [Streams & Lambda](https://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/)
+```java
+   // read from list, stream() is inside collection class 
+   Stream<T> stream = list.stream();
+   
+   // Create stream from an array using Arrays.stream()
+   Stream<T> streamOfArray = Arrays.stream(arr);
+   
+   // read from a bunch of object references
+   Stream.of("A", "good", "day", "to", "write", "some", "Java")
+   
+   
+
+```
+### Stream Source
+### Stream Operations
+#### Intermediate operations
+#### Terminal Operations
+#### 
+### Stream return
