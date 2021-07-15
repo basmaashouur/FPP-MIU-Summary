@@ -171,7 +171,10 @@
        System.out.println(e);
 	      });
        
-       // max, min, count, average 
+       // max, min, average use getAsDouble()
+       
+       // count, sum
+       
        // we have to convert the stream first to mapToInt or mapToDouble to be able to use them
        
        // peek
