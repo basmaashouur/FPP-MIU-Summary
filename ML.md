@@ -21,9 +21,23 @@
 - [Tools](#Tools)
 - []() 
 
+
+# Resources
+- [MindMap](https://github.com/dformoso/machine-learning-mindmap)
+
 # Process
 # Data Processing
 # Mathematics
-# Concepts
+## Algebra
+## Calculus
+## Linear Algebra
+## Statistics
+# [Concepts](https://developers.google.com/machine-learning/glossary)
+## Supervised Learning
+### Regression
+### Classification
+## Unsupervised Learning
+### Clustering
+### Dimensionality Reduction
 # Models
 # Tools
