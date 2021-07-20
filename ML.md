@@ -13,7 +13,7 @@
        * [Classification](#Classification)
   * [Unsupervised Learning](#Unsupervised-Learning)
        * [Clustering](#Clustering)
-       * [Dimensionality Reduction](#Dimensionality Reduction)
+       * [Dimensionality Reduction](#Dimensionality-Reduction)
   * [Reinforcement Learning](#Reinforcement-Learning)
 - [Models](#Models)
 - [Tools](#Tools)
