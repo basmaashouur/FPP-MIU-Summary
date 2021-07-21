@@ -76,3 +76,7 @@
 ## Docker
 ## LATEx
 -[How to Read Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+
+
+
+ml ->. subfield -> process -> algortithm -> model
