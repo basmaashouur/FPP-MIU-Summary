@@ -75,7 +75,8 @@
 # Tools
 ## Python
 ### Environment
-- Anaconda, Jupiter notebooks, Colab,Kaggle Kernels,AWS SageMaker
+-> brew -> python3 -> pip3 -> pandas -> matplotlib
+-> download conda
 ### Frameworks:
 - Pandas, numpy, scipy , matplotlib
 - SciKit learn
