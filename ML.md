@@ -75,6 +75,8 @@
 # Tools
 ## Python
 ### Environment
+- [pandas data visualization](https://towardsdatascience.com/introduction-to-data-visualization-in-python-89a54c97fbed)
+
 -> brew -> python3 -> pip3 -> pandas -> matplotlib
 -> download conda
 ### Frameworks:
