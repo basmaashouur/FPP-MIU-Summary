@@ -79,8 +79,8 @@
   - Select one hyperparameter
   - Show Complixity curve
   - Show learning curve
-- Train you model using [Ensemble]
-- Voting classifier [Multi models]
+- Train you model using [Ensemble Multi models]
+  - Voting classifier
   - Auto ML
   - Compare models [Auc curve]
 ### Making Predictions & Observations
