@@ -75,12 +75,11 @@
 - Split your data for tranining and testing
 - Select your model 
 - Train your model
-- Train you model using [Ensemble]
-- Evaluation
 - Hyperparameter Tuning
   - Select one hyperparameter
   - Show Complixity curve
   - Show learning curve
+- Train you model using [Ensemble]
 - Voting classifier [Multi models]
   - Auto ML
   - Compare models [Auc curve]
