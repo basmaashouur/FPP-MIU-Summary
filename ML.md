@@ -80,7 +80,7 @@
   - Show Complixity curve
   - Show learning curve
 - Train you model using [Ensemble Multi models]
-  - Voting classifier
+  - [Voting classifier, random forest, stacking, boosting]
   - Auto ML
   - Compare models [Auc curve]
 ### Making Predictions & Observations
