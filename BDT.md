@@ -1,7 +1,6 @@
 # Summary of Big Data Technology Course
 
-
-## Table of Contents
+Table of Contents
 ================= 
 
 - [Terminologies](#Terminologies) 
