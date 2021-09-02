@@ -24,6 +24,7 @@ Table of Contents
 - 
 ## Techniques
 ##  Technology
+- The core methods
 - 1)setup () – To configure parameters like the input size, distributed cache, heap size.
    -  Method Definition- public void setup (context)
 
