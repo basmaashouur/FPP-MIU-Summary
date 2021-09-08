@@ -32,3 +32,5 @@ Table of Contents
 - Method Definition -public void reduce (Key,Value,context)
 
 3)cleanup () – Executed only once at the end of reduce task for clearing all the temporary files.
+
+### Arch of haddop cluster
